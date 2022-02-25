@@ -1,6 +1,6 @@
 
 </p>
-<h1 align=center><font size = 4>Hi there 👋! <br> I'm Loreto Ávila<br> Welcome to my profile, thanks for passing by😃</font></h1>
+<h1 align=center><font size = 4>Hi there👋! <br> I'm Loreto Ávila<br> Welcome to my profile, thanks for passing by😃</font></h1>
 <br>
 <p align='center'>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -9,13 +9,13 @@
 </p> 
 
 ## A little bit about me...
-Actually, i'm studying in Modelo University from Merida, Yucatán. I'm a person who likes mathematics and technology, interested in web development and database topics
+Actually, i'm studying in Modelo University from Merida, Yucatán. I'm a person who likes mathematics and technology, interested in web development and database topics💻
 
 
 
 - 🌱 I’m currently learning **Business Intelligence, JavaScript in courses**
 
-- 💬 Ask me about **Basketball**
+- 💬 Ask me about **Basketball🏀**
 
 - 📫 How to reach me **loret.avila0308@gmail.com**
 
