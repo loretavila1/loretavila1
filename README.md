@@ -1,6 +1,6 @@
 
 </p>
-<h1 align=center><font size = 5>Hi there 👋! I'm Loreto Ávila<br> Welcome to my profile, thanks for passing by😃</font></h1>
+<h1 align=center><font size = 5>Hi there 👋! <br> I'm Loreto Ávila<br> Welcome to my profile, thanks for passing by😃</font></h1>
 <br>
 <p align='center'>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -9,7 +9,7 @@
 </p> 
 
 ## A little bit about me...
-I´m a person who likes Math & Technology always finding
+I'm a person who likes mathematics and technology, interested in web development and database topics
 
 
 - 🌱 I’m currently learning **Business Intelligence, JavaScript in courses**
