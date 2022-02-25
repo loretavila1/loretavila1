@@ -17,7 +17,7 @@ Actually, i'm studying in Modelo University from Merida, Yucatán. I'm a person 
 
 - 💬 Ask me about **Basketball🏀**
 
-- 📫 How to reach me **loret.avila0308@gmail.com** <p ><a href="https://www.linkedin.com/in/loreto-avila-93a4831ba/" or LinkedIn </a></p>
+- 📫 How to reach me **loret.avila0308@gmail.com** <p ><a href="https://www.linkedin.com/in/loreto-avila-93a4831ba/"> or LinkedIn </a></p>
 
 <!--- <h3 align="left">Connect with me:</h3>
 <p align="left">
