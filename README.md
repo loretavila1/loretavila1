@@ -1,6 +1,6 @@
 
 </p>
-<h1 align=center><font size = 5>Hi there 👋! <br> I'm Loreto Ávila<br> Welcome to my profile, thanks for passing by😃</font></h1>
+<h1 align=center><font size = 4>Hi there 👋! <br> I'm Loreto Ávila<br> Welcome to my profile, thanks for passing by😃</font></h1>
 <br>
 <p align='center'>
 &nbsp;&nbsp;&nbsp;&nbsp;
