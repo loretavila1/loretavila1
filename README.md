@@ -1,12 +1,18 @@
-### Hi there 👋
 
 </p>
-<h1 align=center><font size = 5>Hi there 👋! I'm Luis Novelo<br> Welcome to my profile, thanks for passing by😃</font></h1>
+<h1 align=center><font size = 5>Hi there 👋! I'm Loreto Ávila<br> Welcome to my profile, thanks for passing by😃</font></h1>
 <br>
 <p align='center'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/loreto-avila/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/loreto-avila-93a4831ba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   &nbsp;
+</p> 
+
+## A little bit about me...
+I´m a person who likes Math & Technology always finding
+
+
+## Work
 <!--
 **loretavila1/loretavila1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
